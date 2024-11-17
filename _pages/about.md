@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>Senior @ UNC Chapel Hill | Computer Science and Applied Engineering</strong>
+subtitle: <strong>Senior @ <a href="https://www.unc.edu/">UNC Chapel Hill</a> | Computer Science and Applied Engineering</strong>
 
 profile:
   align: right
@@ -15,7 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Senior @ UNC Chapel Hill | Computer Science and Applied Engineering**
 
 Hi, I’m Martim! 👋 Thanks for visiting my corner of the internet.
 
