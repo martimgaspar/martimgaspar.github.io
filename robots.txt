@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://martimgaspar.com/sitemap.xml
+Sitemap: https://martimgaspar.github.io/sitemap.xml
