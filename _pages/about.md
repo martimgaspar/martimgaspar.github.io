@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <strong>Senior @ UNC Chapel Hill | Computer Science and Applied Engineering</strong>
 
 profile:
   align: right

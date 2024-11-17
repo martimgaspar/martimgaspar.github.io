@@ -6,8 +6,6 @@ inline: false
 related_posts: false
 ---
 
-I recently had the pleasure of attending SHPE 2024 hosted in Anaheim California!
----
-It was a wonderful experience. It was both my first professional conference and my first time in California.
----
+## I recently had the pleasure of attending SHPE 2024 hosted in Anaheim California!
 
+## It was a wonderful experience. It was both my first professional conference and my first time in California.
